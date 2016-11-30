@@ -1,0 +1,28 @@
+body {
+    background-color:#4F86F7;
+    
+}
+h1{
+    font-family:"Courier New", Courier, monospace,sans-serif;
+    font-size:10em;
+    color: #FEFEFA;
+    text-align:center;
+}
+h2 {
+    font-family: Courier New, sans-serif;
+    font-size:3.5em;
+    color: #FEFEFA;
+    text-align:right;
+}
+h3 {
+    font-family:Courier New, sans-serif;
+    font-size:2.5em;
+    color: #FEFEFA;
+    text-align:left;
+}
+
+h4, h5, h6, p {
+    font-family:"Helvetica Neue", Arial,sans-serif;
+    color: #FEFEFA;
+    
+}
